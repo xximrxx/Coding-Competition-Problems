@@ -62,7 +62,7 @@ int main() {
     {
         r=sum%10;
         sum=sum/10;
-        ans=atomic_flag_test_and_set(volatile atomic_flag *__a)()+r;
+        ans=ans+r;
     }
     cout<<ans;
     /*a=sum/2;
