@@ -1,2 +1,2 @@
 # Coding-Competition-Problems
-c plus plus problems
+C plus plus problems
